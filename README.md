@@ -1,0 +1,2 @@
+# LscTestRep
+Teszt repository
